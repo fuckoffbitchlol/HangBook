@@ -26,3 +26,9 @@ $ ssh-keygen -t rsa -C "youremail@gmail.com"
 1. git add remote "remote repository name"
 2. git remote -v  // verify the remote repository url
 3. git push origin master
+
+#### raspberryPI
+##### 没有显示器，rasPi连入了无线网但是不知道IP
+- 苹果的话 arp -a 可以查找同网段的机器，用了不好使，可能用的不对.
+- ipscan22 windows工具可以很轻松的找到同网段的机器。T.T 困扰我这么长时间的问题
+- [经验] 有问题先看一下有没有解决的软件工具，不一定非要是命令，尤其是在windows下命令行那么垃圾。
