@@ -3,6 +3,7 @@
 
 - 比較は個体数を固定して島の数で割る，そこから今後の評価を行う．
 - 総評価回数を同じにすればいい？ crazy.
+-
 
 #### defaultクラスをなくす
 - how about setting default class to auto
