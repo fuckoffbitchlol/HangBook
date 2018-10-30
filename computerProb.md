@@ -21,6 +21,7 @@ $ ssh-keygen -t rsa -C "youremail@gmail.com"
 6. stackoverflow上说要umount /mnt/c 结果也是一直busy没法umount 全局终
 
 - 直接windows文件系统改权限呢？---没改明白
+- [solve] 改用git bash 解决了 windows的linux还是搞不懂
 
 #### add local project to remote empty github repository
 1. git add remote "remote repository name"
